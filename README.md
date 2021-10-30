@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## - 🔭 I’m currently working on SYSTRAN Development Team in South Korea.
-## - 🌱 I’m currently working and learning Programming and DataBase etc...
+- 🔭 I’m currently working on SYSTRAN Development Team in South Korea.
+- 🌱 I’m currently working and learning Programming and DataBase etc...
 
 <!--
 **devlunch4/devlunch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
