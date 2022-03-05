@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SYSTRAN Development Team in South Korea.
-- JAVA, python, oracle SQL, HTML, CSS, Javascript...
+- 🔭 I’m currently working on SYSTRAN Core-Data/Development Team) in South Korea.
+- Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🌱  
 
 <!--
