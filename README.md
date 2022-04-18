@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on SYSTRAN Core-Data/Development Team) in South Korea.
+- 💻 I’m currently working on SYSTRAN (Core-Data/Development Team > Tech Support Team) in South Korea.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃
 
