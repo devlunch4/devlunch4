@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on SYSTRAN (Core-Data/Development Team > Tech Support Team) in South Korea.
+- 📋 Simple Resume : https://quaint-gaura-6cf.notion.site/Developer-WS-KIM-ddaad581b62441adb0027d16031e9bf8
+- 💻 Open to work.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃 Running(Marathon)
-- Simple Resume : https://quaint-gaura-6cf.notion.site/Developer-WS-KIM-ddaad581b62441adb0027d16031e9bf8
 
+
+> Product
 https://github.com/devlunch4/3TeamFinalProject  
 https://github.com/devlunch4/3TeamFinalProject#readme  
 https://github.com/devlunch4/linkedin_certificate  
