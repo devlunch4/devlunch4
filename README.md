@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on SYSTRAN (Core-Data/Development Team > Tech Support Team) in South Korea.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
-- 🏃
+- 🏃 Running(Marathon)
 - Simple Resume : https://quaint-gaura-6cf.notion.site/Developer-WS-KIM-ddaad581b62441adb0027d16031e9bf8
 
 https://github.com/devlunch4/3TeamFinalProject  
