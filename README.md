@@ -14,7 +14,7 @@ https://github.com/devlunch4/Kaggle_Courses
 https://github.com/devlunch4/certificate  (Tacademy, MongoDB)  
 https://github.com/devlunch4/readBook  
 https://github.com/devlunch4/startSpringGuides  
-https://github.com/devlunch4/book_RE_springQuickStart
+https://github.com/devlunch4/book_RE_springQuickStart_
 
 
 https://github.com/devlunch4/LeetCodeSolutionJava  
