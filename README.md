@@ -10,13 +10,10 @@
 https://github.com/devlunch4/3TeamFinalProject  
 https://github.com/devlunch4/3TeamFinalProject#readme  
 https://github.com/devlunch4/linkedin_certificate  
-https://github.com/devlunch4/Kaggle_Courses  
-https://github.com/devlunch4/certificate  (Tacademy, MongoDB)  
+https://github.com/devlunch4/certificate  (Kaggle, linkedin learning, Tacademy, MongoDB)  
 https://github.com/devlunch4/readBook  
 https://github.com/devlunch4/startSpringGuides  
 https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  
-
-
 
 https://github.com/devlunch4/LeetCodeSolutionJava  
 
