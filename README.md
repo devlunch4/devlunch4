@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📋 Simple Resume : [notion Link](https://quaint-gaura-6cf.notion.site/Developer-Woosung-Kim-resume-ddaad581b62441adb0027d16031e9bf8)
+- 📋 Simple Resume : [Notion Link (Click this)](https://quaint-gaura-6cf.notion.site/Developer-Woosung-Kim-resume-ddaad581b62441adb0027d16031e9bf8)
 - 💻 Open to work.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃 Running(Marathon)
