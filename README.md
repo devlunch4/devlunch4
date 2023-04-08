@@ -9,7 +9,6 @@
 > Product  
 https://github.com/devlunch4/3TeamFinalProject  
 https://github.com/devlunch4/3TeamFinalProject#readme  
-https://github.com/devlunch4/linkedin_certificate  
 https://github.com/devlunch4/certificate  (Kaggle, linkedin learning, Tacademy, MongoDB)  
 https://github.com/devlunch4/readBook  
 https://github.com/devlunch4/startSpringGuides  
