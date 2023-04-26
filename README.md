@@ -6,6 +6,7 @@
 - 💻 Open to work.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃 Running(Marathon)
+- 🇰🇷🇨🇦 I am in Canada now.  
 
 
 > Product  
@@ -15,13 +16,14 @@ https://github.com/devlunch4/certificate  (Kaggle, linkedin learning, Tacademy, 
 https://github.com/devlunch4/readBook  
 https://github.com/devlunch4/startSpringGuides  
 https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  
+and other company projects..
 
 https://github.com/devlunch4/LeetCodeSolutionJava  
 
 https://github.com/devlunch4/nwitter  
 https://devlunch4.github.io/nwitter [20230420 Not Service]
 
-I am in Canada now. 🇨🇦
+
 
 <!--
 **devlunch4/devlunch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
