@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📋 Simple Resume : 
+- 📋 Simple Resume :  
   [Notion Link (Click this)](https://quaint-gaura-6cf.notion.site/Developer-Woosung-Kim-resume-ddaad581b62441adb0027d16031e9bf8)  
   [LinkedIn (Click this)](https://www.linkedin.com/in/kimwoosungn/)
 - 💻 Open to work.
