@@ -14,7 +14,7 @@
 - https://github.com/devlunch4/LeetCodeSolutionJava  
 
 - Challenge on Frontend Mentor [Link](https://www.frontendmentor.io/home)
-    - https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html
+    - https://github.com/devlunch4/order-summary-component_frontend_mentor
 
 - [Project Result] Full-Stack Developer Training Program in South Korea
     - https://github.com/devlunch4/3TeamFinalProject  
