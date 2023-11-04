@@ -1,27 +1,33 @@
-### Hi there 👋
+# Hi! I am Michael.
 
-- 📋 Simple Resume :  
-  [Notion Link (Click this)](https://quaint-gaura-6cf.notion.site/Developer-Woosung-Kim-resume-ddaad581b62441adb0027d16031e9bf8)  
-  [LinkedIn (Click this)](https://www.linkedin.com/in/kimwoosungn/)
+- 🇰🇷🇨🇦 Now, I am in Canada.
+- 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
 - 💻 Open to work.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃 Running(Marathon)
-- 🇰🇷🇨🇦 I am in Canada now.  
 
 
-> Product  
-https://github.com/devlunch4/3TeamFinalProject  
-https://github.com/devlunch4/3TeamFinalProject#readme  
-https://github.com/devlunch4/certificate  (Kaggle, linkedin learning, Tacademy, MongoDB)  
-https://github.com/devlunch4/readBook  
-https://github.com/devlunch4/startSpringGuides  
+
+## Product  
+- https://github.com/devlunch4/certificate (Kaggle, linkedin learning, Tacademy, MongoDB)  
+- https://github.com/devlunch4/readBook  
+- https://github.com/devlunch4/LeetCodeSolutionJava  
+
+- Challenge on Frontend Mentor [Link](https://www.frontendmentor.io/home)
+    - https://devlunch4.github.io/order-summary-component_frontend_mentor/index.html
+
+- [Project Result] Full-Stack Developer Training Program in South Korea
+    - https://github.com/devlunch4/3TeamFinalProject  
+    - https://github.com/devlunch4/3TeamFinalProject#readme  
+    - https://github.com/devlunch4/startSpringGuides  
 <!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
-and other company projects..
 
-https://github.com/devlunch4/LeetCodeSolutionJava  
+I have diverse project experience.
 
-https://github.com/devlunch4/nwitter  
-https://devlunch4.github.io/nwitter [20230420 Not Service]
+
+
+<!-- https://github.com/devlunch4/nwitter  
+https://devlunch4.github.io/nwitter [20230420 Not Service] -->
 
 
 
