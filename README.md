@@ -16,8 +16,7 @@
 - Challenge on Frontend Mentor [Link](https://www.frontendmentor.io/home)
     - [order-summary-component_frontend_mentor](https://github.com/devlunch4/order-summary-component_frontend_mentor)
     - [results-summary-component_frontend_mentor](https://github.com/devlunch4/results-summary-component_frontend_mentor)
-    - [product-preview-card-component_frontend_mentor
-](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
+    - [product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
 
 - [Project Result] Full-Stack Developer Training Program in South Korea
     - https://github.com/devlunch4/3TeamFinalProject  
