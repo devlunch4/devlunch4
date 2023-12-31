@@ -13,7 +13,7 @@
 - [readBook](https://github.com/devlunch4/readBook)
 - [https://github.com/devlunch4/LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)
 
-- Challenge on Frontend Mentor [Link](https://www.frontendmentor.io/home)
+- Challenge on Frontend Mentor : [Link](https://www.frontendmentor.io/home)
     - [order-summary-component_frontend_mentor](https://github.com/devlunch4/order-summary-component_frontend_mentor)
     - [results-summary-component_frontend_mentor](https://github.com/devlunch4/results-summary-component_frontend_mentor)
     - [product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
