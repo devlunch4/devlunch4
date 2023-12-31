@@ -11,18 +11,15 @@
 ## Product
 - [certificate](https://github.com/devlunch4/certificate) (Kaggle, linkedin learning, Tacademy, MongoDB...)
 - [readBook](https://github.com/devlunch4/readBook)
-- [https://github.com/devlunch4/LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)
-
+- [LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)
 - Challenge on Frontend Mentor : [Link](https://www.frontendmentor.io/home)
     - [order-summary-component_frontend_mentor](https://github.com/devlunch4/order-summary-component_frontend_mentor)
     - [results-summary-component_frontend_mentor](https://github.com/devlunch4/results-summary-component_frontend_mentor)
     - [product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
-
 - [Project Result] Full-Stack Developer Training Program in South Korea
     - [https://github.com/devlunch4/3TeamFinalProject#readme](https://github.com/devlunch4/3TeamFinalProject#readme)
     - [https://github.com/devlunch4/startSpringGuides](https://github.com/devlunch4/startSpringGuides)
 <!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
-
 - [Game]
     - [snake-game-js](https://github.com/devlunch4/snake-game-js)
 
