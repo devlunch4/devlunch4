@@ -19,7 +19,6 @@
     - [product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
 
 - [Project Result] Full-Stack Developer Training Program in South Korea
-    - https://github.com/devlunch4/3TeamFinalProject  
     - https://github.com/devlunch4/3TeamFinalProject#readme  
     - https://github.com/devlunch4/startSpringGuides  
 <!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
