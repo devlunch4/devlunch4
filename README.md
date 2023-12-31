@@ -23,8 +23,8 @@
 <!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
 - [Game]
     - [snake-game-js]
-        - [PLAY](https://devlunch4.github.io/snake-game-js/)
-        - [git repo](https://github.com/devlunch4/snake-game-js)
+        - [PLAY : snake-game-js](https://devlunch4.github.io/snake-game-js/)
+        - [git repo : snake-game-js](https://github.com/devlunch4/snake-game-js)
 
 I have diverse project experience.
 
