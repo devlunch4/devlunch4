@@ -1,9 +1,6 @@
+update: 2023-12-31  
+
 # Hi! I am Michael.
-
-<div style="text-align: right;">
-update: 2023-12-31
-</div>
-
 
 - 🇰🇷🇨🇦 Now, I am in Canada.
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
@@ -15,6 +12,7 @@ update: 2023-12-31
 
 
 ## Product
+
 - [Link Certificate](https://github.com/devlunch4/certificate) (Kaggle, linkedin learning, Tacademy, MongoDB...)
 - [Link readBook](https://github.com/devlunch4/readBook)
 - [Link LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)
