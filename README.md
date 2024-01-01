@@ -1,4 +1,5 @@
-update: 2023-12-31  
+update: 2023-12-31 
+
 
 # Hi! I am Michael.
 
@@ -9,7 +10,9 @@ update: 2023-12-31
 - 🏃 Running(Marathon)
 - [github.com/devlunch4](https://github.com/devlunch4)
 
-
+> NOW OPEN TO WORK!
+> Please send me an email!
+> devlunch4@gmail.com
 
 ## Product
 
@@ -30,6 +33,7 @@ update: 2023-12-31
         - [git repo : snake-game-js](https://github.com/devlunch4/snake-game-js)
 
 I have diverse project experience.
+
 
 
 
