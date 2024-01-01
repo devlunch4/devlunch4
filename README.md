@@ -10,7 +10,7 @@ update: 2023-12-31
 - 🏃 Running(Marathon)
 - [github.com/devlunch4](https://github.com/devlunch4)
 
-    > NOW OPEN TO WORK!  
+- NOW OPEN TO WORK!  
     > Please send me an email  
     > devlunch4@gmail.com
 
