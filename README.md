@@ -3,6 +3,11 @@ update: 2023-12-31
 
 # Hi! I am Michael.
 
+- NOW OPEN TO WORK!  
+    > Please send me an email  
+    > devlunch4@gmail.com
+    
+
 - 🇰🇷🇨🇦 Now, I am in Canada.
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
 - 💻 Open to work.
@@ -10,9 +15,7 @@ update: 2023-12-31
 - 🏃 Running(Marathon)
 - [github.com/devlunch4](https://github.com/devlunch4)
 
-- NOW OPEN TO WORK!  
-    > Please send me an email  
-    > devlunch4@gmail.com
+
 
 ## Product
 
