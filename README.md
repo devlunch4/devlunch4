@@ -18,26 +18,26 @@ update: 2024-01-10
 
 
 ## Experience
-> [Work]
->> Senior Java Developer  
+### Work
+> Senior Java Developer  
 U&Fine CO., LTD · Contract / Full-time  
 Jul 2022 - Jan 2023
-- Communicated Effectively with customers.
-- Created Application/Web as part of the NEIS
-- [Project] NEIS (National Education Information System);  
-  Developed a next-generation Project | 2022-2023.
-  
->> Developer / Software Engineer  
+    - Communicated Effectively with customers.
+    - Created Application/Web as part of the NEIS
+    - [Project] NEIS (National Education Information System);  
+      Developed a next-generation Project | 2022-2023.
+ 
+> Developer / Software Engineer  
 SYSTRAN · Full-time  
 May 2021 - Jun 2022
-- Developed Web, Data, Java, Python, SQL.
-- Provide Managed and Technical Support to customers.
-- [Project] KB (KookMin) Bank;  
-  Telegraph Translate Pre-Processer Project | 2021-2022.
+    - Developed Web, Data, Java, Python, SQL.
+    - Provide Managed and Technical Support to customers.
+    - [Project] KB (KookMin) Bank;  
+      Telegraph Translate Pre-Processer Project | 2021-2022.
 
 
-> [Training Program]
-- Full-Stack Developer Training Program in South Korea
+### Training Program
+> Full-Stack Developer Training Program in South Korea
     - [https://github.com/devlunch4/3TeamFinalProject#readme](https://github.com/devlunch4/3TeamFinalProject#readme)
     - [https://github.com/devlunch4/startSpringGuides](https://github.com/devlunch4/startSpringGuides)
 <!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
@@ -46,7 +46,6 @@ May 2021 - Jun 2022
 
   
 ## Learning and Self-development
-
 - [Link Certificate](https://github.com/devlunch4/certificate) (Kaggle, linkedin learning, Tacademy, MongoDB...)
 - [Link readBook](https://github.com/devlunch4/readBook)
 - [Link LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)
@@ -54,7 +53,6 @@ May 2021 - Jun 2022
     - [Link order-summary-component_frontend_mentor](https://github.com/devlunch4/order-summary-component_frontend_mentor)
     - [Link results-summary-component_frontend_mentor](https://github.com/devlunch4/results-summary-component_frontend_mentor)
     - [Link product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
-
 - [Game]
     - [snake-game-js]
         - [PLAY : snake-game-js](https://devlunch4.github.io/snake-game-js/)
