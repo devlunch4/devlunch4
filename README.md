@@ -1,4 +1,4 @@
-update: 2023-12-31 
+update: 2024-01-10
 
 
 # Hi! I am Michael.
@@ -13,11 +13,39 @@ update: 2023-12-31
 - 💻 Open to work.
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...
 - 🏃 Running(Marathon)
-- [github.com/devlunch4](https://github.com/devlunch4)
+- 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
 
 
 
-## Product
+## Experience
+> [Work]
+>> Senior Java Developer  
+U&Fine CO., LTD · Contract / Full-time  
+Jul 2022 - Jan 2023
+- Communicated Effectively with customers.
+- Created Application/Web as part of the NEIS
+- [Project] NEIS (National Education Information System);  
+  Developed a next-generation Project | 2022-2023.
+  
+>> Developer / Software Engineer  
+SYSTRAN · Full-time  
+May 2021 - Jun 2022
+- Developed Web, Data, Java, Python, SQL.
+- Provide Managed and Technical Support to customers.
+- [Project] KB (KookMin) Bank;  
+  Telegraph Translate Pre-Processer Project | 2021-2022.
+
+
+> [Training Program]
+- Full-Stack Developer Training Program in South Korea
+    - [https://github.com/devlunch4/3TeamFinalProject#readme](https://github.com/devlunch4/3TeamFinalProject#readme)
+    - [https://github.com/devlunch4/startSpringGuides](https://github.com/devlunch4/startSpringGuides)
+<!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
+
+
+
+  
+## Learning and Self-development
 
 - [Link Certificate](https://github.com/devlunch4/certificate) (Kaggle, linkedin learning, Tacademy, MongoDB...)
 - [Link readBook](https://github.com/devlunch4/readBook)
@@ -26,14 +54,12 @@ update: 2023-12-31
     - [Link order-summary-component_frontend_mentor](https://github.com/devlunch4/order-summary-component_frontend_mentor)
     - [Link results-summary-component_frontend_mentor](https://github.com/devlunch4/results-summary-component_frontend_mentor)
     - [Link product-preview-card-component_frontend_mentor](https://github.com/devlunch4/product-preview-card-component_frontend_mentor)
-- [Project Result] Full-Stack Developer Training Program in South Korea
-    - [https://github.com/devlunch4/3TeamFinalProject#readme](https://github.com/devlunch4/3TeamFinalProject#readme)
-    - [https://github.com/devlunch4/startSpringGuides](https://github.com/devlunch4/startSpringGuides)
-<!-- https://github.com/devlunch4/book_RE_springQuickStart_/tree/master/BoardWeb  -->  
+
 - [Game]
     - [snake-game-js]
         - [PLAY : snake-game-js](https://devlunch4.github.io/snake-game-js/)
         - [git repo : snake-game-js](https://github.com/devlunch4/snake-game-js)
+
 
 I have diverse project experience.
 
