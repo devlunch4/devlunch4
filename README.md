@@ -1,4 +1,4 @@
-update: 2024-02-10
+update: 2024-01-10
 
 
 # Hi! I am Michael.
@@ -54,6 +54,8 @@ May 2021 - Jun 2022
     - [Advanced SQL 2022-05-31](https://www.kaggle.com/learn/certification/wskimkaggle/advanced-sql)  
     - [Intro to Deep Learning 2022-06-14](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-deep-learning)  
     - [Time Series 2023-09-13](https://www.kaggle.com/learn/certification/wskimkaggle/time-series)  
+
+> Microsoft Office Master 2007    
 
 > [Summary of Certifications List on Github Page](https://github.com/devlunch4/certificate) ( Kaggle, linkedin learning, Tacademy, MongoDB...)  
 
