@@ -61,9 +61,9 @@ Aug 2017 - Aug 2019
     - [Intro to Deep Learning, 2022-06-14](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-deep-learning)  
     - [Time Series, 2023-09-13](https://www.kaggle.com/learn/certification/wskimkaggle/time-series)  
 - Microsoft Office Master 2007    
-- [Summary of Certifications List on Github Page](https://github.com/devlunch4/certificate)  
+- [Michael's Summary of Certifications List on Github Page](https://github.com/devlunch4/certificate)  
 (Kaggle, linkedin learning, Tacademy, MongoDB...)  
-- [Woosung's LinkedIn Certifications Page](https://www.linkedin.com/in/mikeca878/details/certifications/)  
+- [Michael's LinkedIn Certifications Page](https://www.linkedin.com/in/mikeca878/details/certifications/)  
 
 
 ## Education
