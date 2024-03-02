@@ -22,7 +22,7 @@ Jul 2022 - Jan 2023
     - Effectively communicated with customers.
     - Contributed to NEIS(National Education Information System) Project.
     - [Project] NEIS (National Education Information System) / 2022-2023  
-        > -- Participation in the development/improvement of next-generation web/programs.  
+        > -- Participated in the development/improvement of next-generation web/programs.  
     -- UI/UX development tailored to user requirements.  
     -- Implementation of features related to information disclosure.  
 
