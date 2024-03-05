@@ -21,29 +21,32 @@ Jul 2022 - Jan 2023
     - Developed a next-gen program aligned with user and customer requirements.
     - Effectively communicated with customers.
     - Contributed to NEIS(National Education Information System) Project.
-    - [Project] NEIS (National Education Information System) / 2022-2023  
-        > -- Participated in the development/improvement of next-generation web/programs.  
-    -- UI/UX development tailored to user requirements.  
-    -- Implementation of features related to information disclosure.  
+    - [Project] NEIS (National Education Information System) / 2022-2023
+    -- Participated in the development/improvement of next-generation web/programs.
+    -- Developed UI/UX tailored to user requirements.
+    -- Implemented features related to information disclosure. 
 
  
 - Developer & Software Engineer  
 SYSTRAN / South Korea / Full-time  
 May 2021 - Jun 2022  
     - Developed and maintained language translation web applications.
-    - Authored user manuals, provided issue resolution support, and documented procedures  
-    - Provide Managed and Technical Support to customers.  
-    - [Project] KB (KookMin) Bank / 2021-2022  
-        > -- Participated in the development of the Telegraph Translate Preprocessor Project.  
+    - Created user manuals, helped resolve issues, and documented procedures for a smoother operation.
+    - Provide Managed and Technical Support to customers.
+    - Experience in tasks such as data collection and web crawling.
+    - [Project] KB (KookMin) Bank / 2021-2022
+    -- Participated in the development of the Telegraph Translate Preprocessor Project.
+    -- Preprocessor development using Java and Spring.
+    -- API development for external integration.Project.  
     -- Preprocessor development using Java and Spring.  
     -- API development for external integration.  
 
 - Assistant Manager  
 Dong-A ST Co.,Ltd / South Korea / Full-time  
 Aug 2017 - Aug 2019  
-    - Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.  
-    - Developed and validated analytical methods, following guidelines and regulations.  
-    - Participated in internal & external audits, assisting with documentation review and providing technical skills.  
+    - Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.
+    - Developed and validated analytical methods, following guidelines and regulations.
+    - Participated in internal & external audits, assisting with documentation review and providing technical skills.
 
 
 
