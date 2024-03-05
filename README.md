@@ -1,4 +1,4 @@
-update: 2024-03-02
+update: 2024-03-05
 
 
 # Hi! I am Michael.
@@ -42,7 +42,7 @@ May 2021 - Jun 2022
         -- API development for external integration.  
 
 - Assistant Manager  
-Dong-A ST Co.,Ltd / South Korea / Full-time  
+Dong-A ST Co., Ltd / South Korea / Full-time  
 Aug 2017 - Aug 2019  
     - Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.
     - Developed and validated analytical methods, following guidelines and regulations.
@@ -65,7 +65,7 @@ Aug 2017 - Aug 2019
     - [Time Series, 2023-09-13](https://www.kaggle.com/learn/certification/wskimkaggle/time-series)  
 - Microsoft Office Master 2007    
 - [Michael's Summary of Certifications List on Github Page](https://github.com/devlunch4/certificate)  
-(Kaggle, linkedin learning, Tacademy, MongoDB...)  
+(Kaggle, LinkedIn learning, Tacademy, MongoDB...)  
 - [Michael's LinkedIn Certifications Page](https://www.linkedin.com/in/mikeca878/details/certifications/)  
 
 
