@@ -21,10 +21,10 @@ Jul 2022 - Jan 2023
     - Developed a next-gen program aligned with user and customer requirements.
     - Effectively communicated with customers.
     - Contributed to NEIS(National Education Information System) Project.
-    - [Project] NEIS (National Education Information System) / 2022-2023
-    -- Participated in the development/improvement of next-generation web/programs.
-    -- Developed UI/UX tailored to user requirements.
-    -- Implemented features related to information disclosure. 
+    - [Project] NEIS (National Education Information System) / 2022-2023  
+        -- Participated in the development/improvement of next-generation web/programs.
+        -- Developed UI/UX tailored to user requirements.
+        -- Implemented features related to information disclosure. 
 
  
 - Developer & Software Engineer  
@@ -34,12 +34,12 @@ May 2021 - Jun 2022
     - Created user manuals, helped resolve issues, and documented procedures for a smoother operation.
     - Provide Managed and Technical Support to customers.
     - Experience in tasks such as data collection and web crawling.
-    - [Project] KB (KookMin) Bank / 2021-2022
-    -- Participated in the development of the Telegraph Translate Preprocessor Project.
-    -- Preprocessor development using Java and Spring.
-    -- API development for external integration.Project.  
-    -- Preprocessor development using Java and Spring.  
-    -- API development for external integration.  
+    - [Project] KB (KookMin) Bank / 2021-2022  
+        -- Participated in the development of the Telegraph Translate Preprocessor Project.
+        -- Preprocessor development using Java and Spring.
+        -- API development for external integration.Project.  
+        -- Preprocessor development using Java and Spring.  
+        -- API development for external integration.  
 
 - Assistant Manager  
 Dong-A ST Co.,Ltd / South Korea / Full-time  
