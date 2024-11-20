@@ -9,7 +9,7 @@ devlunch4@gmail.com
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
 - 💻 Open to work.  
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...  
-- 🏃 Running(Marathon)  
+- 🏃 Running(Marathon, since 2007~)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
 - 🛠️ utility & tool [devlunch4.github.io](https://devlunch4.github.io/)
 
