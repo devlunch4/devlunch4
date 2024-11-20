@@ -11,7 +11,7 @@ devlunch4@gmail.com
 - ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...  
 - 🏃 Running(Marathon)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
-- 🛠️ uitility & tool [devlunch4.github.io](https://devlunch4.github.io/)
+- 🛠️ utility & tool [devlunch4.github.io](https://devlunch4.github.io/)
 
 
 
