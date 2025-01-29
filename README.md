@@ -54,6 +54,7 @@ update: 2025-01-30
 ## Licenses & Certifications
 - Certificate Full-Stack Developer Training Program/Course in South Korea  
     - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring...  
+    - Completed multiple practical projects, showcasing full-stack development skills.  
     - <a href="https://github.com/devlunch4/3TeamFinalProject#readme" target="_blank">Final Project - Smart Farm</a>  
 - Kaggle Learn Certificates  
     - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/python" target="_blank">Python, 2021-01-16</a>  
