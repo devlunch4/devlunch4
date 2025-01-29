@@ -1,17 +1,16 @@
-update: 2025-01-21
+update: 2025-01-30
 
 
 # Hi! I am Michael.
-- NOW OPEN TO WORK!  
-- Please send me an email  
-devlunch4@gmail.com  
-- 🇰🇷🇨🇦 Now, I am in South Korea.
+- 🚀 OPEN TO WORK  
+- 📧 Email: devlunch4@gmail.com  
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
-- 💻 Open to work.  
-- ⌨️ Java, Python, Oracle SQL, HTML, CSS, Javascript...  
-- 🏃 Running(Marathon, since 2007~)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
-- 🛠️ utility & tool [devlunch4.github.io](https://devlunch4.github.io/)
+- 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)
+- 💡 Tech Stack: Java, Python, Oracle SQL, HTML, CSS, JavaScript
+- 🌍 Location: South Korea 🇰🇷
+- 🏃 Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling
+- 🗣️ English: Basic conversation, limited workplace proficiency 
 
 
 
@@ -42,6 +41,7 @@ May 2021 - Jun 2022
         -- Preprocessor development using Java and Spring.  
         -- API development for external integration.  
 
+
 - Assistant Manager  
 Dong-A ST Co., Ltd / South Korea / Full-time  
 Aug 2017 - Aug 2019  
@@ -70,6 +70,7 @@ Aug 2017 - Aug 2019
 - [Michael's LinkedIn Certifications Page](https://www.linkedin.com/in/mikeca878/details/certifications/)  
 
 
+
 ## Education
 - Bachelor's Degree, Polymer Engineering & Science  
   Chungnam National University / South Korea  / 2013-2015  
@@ -80,7 +81,7 @@ Aug 2017 - Aug 2019
 - Certificate in Full-Stack Developer Course  
   The Ministry of Employment and Labor / South Korea / 2020-2021  
 
-
+<!-- TODO --?
 ## Learning and Self-Project/Development
 - Link: [readBook](https://github.com/devlunch4/readBook)
 - Link: [Practiced Spring Guides](https://github.com/devlunch4/startSpringGuides)
