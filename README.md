@@ -1,85 +1,86 @@
 update: 2025-01-30
 
-
 # Hi! I am Michael.
 - 🚀 OPEN TO WORK  
 - 📧 Email: devlunch4@gmail.com  
-- 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)
-- 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
-- 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)
-- 💡 Tech Stack: Java, Python, Oracle SQL, HTML, CSS, JavaScript
-- 🌍 Location: South Korea 🇰🇷
-- 🏃 Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling
-- 🗣️ English: Basic conversation, limited workplace proficiency 
+- 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)  
+- 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)  
+- 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
+- 💡 Tech Stack: Java, Python, Oracle SQL, HTML, CSS, JavaScript  
+- 🌍 Location: South Korea 🇰🇷  
+- 🏃 Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling  
+- 🗣️ English: Basic conversation, limited workplace proficiency  
+---
 
+## # Employment History
+>### Owner  
+**미카(MICA)**  
+*Nov 2023 - Dec 2024*  
+- Managed "Naver Smart Store" operations, sales, and customer relations.  
+- Promoted and sold partner products using blogs, SNS, and influencer outreach.  
+- Increased revenue through sales and strategic partnerships.  
 
+>### Senior Java Developer  
+**U&Fine CO., LTD / South Korea / Full-time**  
+*Jul 2022 - Jan 2023* 
+- Developed next-generation programs based on user and customer requirements using Java, SQL, Spring, and JavaScript.  
+- Communicated effectively with customers to ensure their needs were met.  
+- Contributed to the NEIS (National Education Information System) project.  
 
-## Work Experience
-- Senior Java Developer  
-U&Fine CO., LTD / South Korea / Full-time  
-Jul 2022 - Jan 2023  
-    - Developed a next-gen program aligned with user and customer requirements.
-    - Effectively communicated with customers.
-    - Contributed to NEIS(National Education Information System) Project.
-    - [Project] NEIS (National Education Information System) / 2022-2023  
-        -- Participated in the development/improvement of next-generation web/programs.  
-        -- Developed UI/UX tailored to user requirements.  
-        -- Implemented features related to information disclosure. 
-
+*Project: NEIS (National Education Information System)*  
+- Participated in the development and improvement of next-generation web applications and programs.  
+- Developed UI/UX based on user requirements.  
+- Implemented features related to information disclosure.  
  
-- Developer & Software Engineer  
-SYSTRAN / South Korea / Full-time  
-May 2021 - Jun 2022  
-    - Developed and maintained language translation web applications.
-    - Created user manuals, helped resolve issues, and documented procedures for a smoother operation.
-    - Provide Managed and Technical Support to customers.
-    - Experience in tasks such as data collection and web crawling.
-    - [Project] KB (KookMin) Bank / 2021-2022  
-        -- Participated in the development of the Telegraph Translate Preprocessor Project.  
-        -- Preprocessor development using Java and Spring.  
-        -- API development for external integration.Project.  
-        -- Preprocessor development using Java and Spring.  
-        -- API development for external integration.  
+>### Developer & Software Engineer  
+**SYSTRAN KOREA**  
+*May 2021 - Jun 2022*  
+- Improved website functionality through code optimization.  
+- Provided user manuals, technical support, and troubleshooting to ensure seamless website operations.  
+- Conducted data collection and web crawling for enhanced service delivery.  
 
+*Project: KB Bank (Kookmin Bank)*  
+- Developed the Foreign Exchange Specialist Translation Preprocessor using Java, SQL, and Spring.  
+- Created APIs for external system integration.  
 
-- Assistant Manager  
-Dong-A ST Co., Ltd / South Korea / Full-time  
-Aug 2017 - Aug 2019  
-    - Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.
-    - Developed and validated analytical methods, following guidelines and regulations.
-    - Participated in internal & external audits, assisting with documentation review and providing technical skills.
+>### Assistant Manager
+**Dong-A ST Co., Ltd**  
+*Aug 2017 - Aug 2019*  
+- Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.  
+- Developed and validated analytical methods, following guidelines and regulations.  
+- Participated in internal & external audits, assisting with documentation review and providing technical skills.  
+---
 
-
-
-## Licenses & Certifications
+## # Licenses & Certifications
 - Certificate Full-Stack Developer Training Program/Course in South Korea  
     - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring...  
-    - [Final Project - Smart Farm](https://github.com/devlunch4/3TeamFinalProject#readme)  
+    - <a href="https://github.com/devlunch4/3TeamFinalProject#readme" target="_blank">Final Project - Smart Farm</a>  
 - Kaggle Learn Certificates  
-    - [Python, 2021-01-16](https://www.kaggle.com/learn/certification/wskimkaggle/python)  
-    - [Intro to Programming, 2022-05-31](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-programming)  
-    - [Pandas, 2022-02-08](https://www.kaggle.com/learn/certification/wskimkaggle/pandas)  
-    - [Intro to Machine Learning, 2022-02-20](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-machine-learning)  
-    - [Intro to SQL, 2022-05-09](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-sql)  
-    - [Advanced SQL, 2022-05-31](https://www.kaggle.com/learn/certification/wskimkaggle/advanced-sql)  
-    - [Intro to Deep Learning, 2022-06-14](https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-deep-learning)  
-    - [Time Series, 2023-09-13](https://www.kaggle.com/learn/certification/wskimkaggle/time-series)  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/python" target="_blank">Python, 2021-01-16</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-programming" target="_blank">Intro to Programming, 2022-05-31</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/pandas" target="_blank">Pandas, 2022-02-08</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-machine-learning" target="_blank">Intro to Machine Learning, 2022-02-20</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-sql" target="_blank">Intro to SQL, 2022-05-09</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/advanced-sql" target="_blank">Advanced SQL, 2022-05-31</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/intro-to-deep-learning" target="_blank">Intro to Deep Learning, 2022-06-14</a>  
+    - <a href="https://www.kaggle.com/learn/certification/wskimkaggle/time-series" target="_blank">Time Series, 2023-09-13</a>  
 - Microsoft Office Master 2007    
-- [Michael's Summary of Certifications List on Github Page](https://github.com/devlunch4/certificate)  
+- <a href="https://github.com/devlunch4/certificate" target="_blank">Michael's Summary of Certifications List on Github Page</a>  
 (Kaggle, LinkedIn learning, Tacademy, MongoDB...)  
-- [Michael's LinkedIn Certifications Page](https://www.linkedin.com/in/mikeca878/details/certifications/)  
+- <a href="https://www.linkedin.com/in/mikeca878/details/certifications/" target="_blank">Michael's LinkedIn Certifications Page</a>
+---
 
 
 
-## Education
-- Bachelor's Degree, Polymer Engineering & Science  
-  Chungnam National University / South Korea  / 2013-2015  
-- Associate's Degree, Fire Safety Engineering  
-  Woosong College / South Korea / 2007-2011  
+## # Education
 - Certificate in Hospitality Skills Co-op  
   Greystone College / Toronto / 2023-2023  
 - Certificate in Full-Stack Developer Course  
   The Ministry of Employment and Labor / South Korea / 2020-2021  
+- **Bachelor's Degree, Polymer Engineering & Science**  
+  Chungnam National University / South Korea  / 2013-2015  
+- Associate's Degree, Fire Safety Engineering  
+  Woosong College / South Korea / 2007-2011  
 
 <!-- TODO --?
 ## Learning and Self-Project/Development
