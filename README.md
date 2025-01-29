@@ -12,7 +12,7 @@ update: 2025-01-30
 - 🗣️ English: Basic conversation, limited workplace proficiency  
 ---
 
-## # Employment History
+## Employment History
 >### Owner  
 **미카(MICA)**  
 *Nov 2023 - Dec 2024*  
@@ -51,7 +51,7 @@ update: 2025-01-30
 - Participated in internal & external audits, assisting with documentation review and providing technical skills.  
 ---
 
-## # Licenses & Certifications
+## Licenses & Certifications
 - Certificate Full-Stack Developer Training Program/Course in South Korea  
     - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring...  
     - <a href="https://github.com/devlunch4/3TeamFinalProject#readme" target="_blank">Final Project - Smart Farm</a>  
@@ -72,7 +72,7 @@ update: 2025-01-30
 
 
 
-## # Education
+## Education
 - Certificate in Hospitality Skills Co-op  
   Greystone College / Toronto / 2023-2023  
 - Certificate in Full-Stack Developer Course  
