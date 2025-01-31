@@ -1,4 +1,4 @@
-update: 2025-01-30
+update: 2025-01-30 
 
 # Hi! I am Michael.
 - 🚀 OPEN TO WORK  
@@ -6,10 +6,11 @@ update: 2025-01-30
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)  
 - 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
-- 💡 Tech Stack: Java, Python, Oracle SQL, HTML, CSS, JavaScript  
-- 🌍 Location: South Korea 🇰🇷  
+- 💡 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript  
+- 🌍 Location: 🇰🇷 South Korea   
 - 🏃 Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling  
-- 🗣️ English: Basic conversation, limited workplace proficiency  
+- 🗣️ English:🇺🇸🇬🇧 Basic conversation, limited workplace proficiency  
+- 🗣️ Korean: 🇰🇷 Native  
 ---
 
 ## Employment History
@@ -33,7 +34,7 @@ update: 2025-01-30
 - Implemented features related to information disclosure.  
  
 >### Developer & Software Engineer  
-**SYSTRAN KOREA**  
+**SYSTRAN KOREA / South Korea / Full-time**  
 *May 2021 - Jun 2022*  
 - Improved website functionality through code optimization.  
 - Provided user manuals, technical support, and troubleshooting to ensure seamless website operations.  
@@ -44,13 +45,14 @@ update: 2025-01-30
 - Created APIs for external system integration.  
 
 >### Assistant Manager
-**Dong-A ST Co., Ltd**  
+**Dong-A ST Co., Ltd/ South Korea / Full-time**   
 *Aug 2017 - Aug 2019*  
 - Ensured compliance with Pharma standards (e.g., FDA, GMP) Internal QC protocols.  
 - Developed and validated analytical methods, following guidelines and regulations.  
 - Participated in internal & external audits, assisting with documentation review and providing technical skills.  
 ---
 
+<!--TODO -->
 ## Licenses & Certifications
 - Certificate Full-Stack Developer Training Program/Course in South Korea  
     - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring...  
@@ -72,7 +74,6 @@ update: 2025-01-30
 ---
 
 
-
 ## Education
 - Certificate in Hospitality Skills Co-op  
   Greystone College / Toronto / 2023-2023  
@@ -82,8 +83,14 @@ update: 2025-01-30
   Chungnam National University / South Korea  / 2013-2015  
 - Associate's Degree, Fire Safety Engineering  
   Woosong College / South Korea / 2007-2011  
+---
 
-<!-- TODO --?
+ ## LANGUAGES
+
+- **Korean**: Native
+- **English**: Limited working proficiency
+
+<!-- TODO -->
 ## Learning and Self-Project/Development
 - Link: [readBook](https://github.com/devlunch4/readBook)
 - Link: [Practiced Spring Guides](https://github.com/devlunch4/startSpringGuides)
@@ -99,7 +106,7 @@ update: 2025-01-30
         - [git repo : snake-game-js](https://github.com/devlunch4/snake-game-js)
 
 
-## I have diverse project experience!
+  
 
 
 
