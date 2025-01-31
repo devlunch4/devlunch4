@@ -1,4 +1,4 @@
-update: 2025-01-30 
+Updated: 2025-01-30 
 
 # Hi! I am Michael.
 - 🚀 OPEN TO WORK  
@@ -52,6 +52,17 @@ update: 2025-01-30
 - Participated in internal & external audits, assisting with documentation review and providing technical skills.  
 ---
 
+## Education
+- Certificate in Hospitality Skills Co-op  
+  Greystone College / Toronto / 2023-2023  
+- Certificate in Full-Stack Developer Course  
+  The Ministry of Employment and Labor / South Korea / 2020-2021  
+- **Bachelor's Degree, Polymer Engineering & Science**  
+  Chungnam National University / South Korea  / 2013-2015  
+- Associate's Degree, Fire Safety Engineering  
+  Woosong College / South Korea / 2007-2011  
+---
+
 <!--TODO -->
 ## Licenses & Certifications
 - Certificate Full-Stack Developer Training Program/Course in South Korea  
@@ -73,19 +84,7 @@ update: 2025-01-30
 - <a href="https://www.linkedin.com/in/mikeca878/details/certifications/" target="_blank">Michael's LinkedIn Certifications Page</a>
 ---
 
-
-## Education
-- Certificate in Hospitality Skills Co-op  
-  Greystone College / Toronto / 2023-2023  
-- Certificate in Full-Stack Developer Course  
-  The Ministry of Employment and Labor / South Korea / 2020-2021  
-- **Bachelor's Degree, Polymer Engineering & Science**  
-  Chungnam National University / South Korea  / 2013-2015  
-- Associate's Degree, Fire Safety Engineering  
-  Woosong College / South Korea / 2007-2011  
----
-
- ## LANGUAGES
+## LANGUAGES
 
 - **Korean**: Native
 - **English**: Limited working proficiency
