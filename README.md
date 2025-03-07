@@ -6,7 +6,7 @@ Updated: 2025-03-05
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)  
 - 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
-- 💡 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript  
+- 💡 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript...  
 - 🌍 Location: 🇰🇷 South Korea   
 - 🏃 Hobby/Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling...    
 - 🗣️ English:🇺🇸🇬🇧 Basic conversation, limited workplace proficiency  
