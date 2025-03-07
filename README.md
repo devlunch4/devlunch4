@@ -8,7 +8,7 @@ Updated: 2025-03-05
 - 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
 - 💡 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript  
 - 🌍 Location: 🇰🇷 South Korea   
-- 🏃 Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling  
+- 🏃 Hobby/Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling...    
 - 🗣️ English:🇺🇸🇬🇧 Basic conversation, limited workplace proficiency  
 - 🗣️ Korean: 🇰🇷 Native  
 ---
