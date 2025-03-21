@@ -1,13 +1,13 @@
-Updated: 2025-03-05 
+Updated: 2025-03-15
 
-# Hi! I am Michael.
+# Hi! I am Michael.🇰🇷
 - 🚀 OPEN TO WORK  
 - 📧 Email: devlunch4@gmail.com  
 - 📋 [LinkedIn (Click).](https://www.linkedin.com/in/mikeca878/)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)  
 - 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
 - 💡 Tech Stack: Java, Python, SQL, HTML, CSS, JavaScript...  
-- 🌍 Location: 🇰🇷 South Korea   
+- 🌍 Location: 🇰🇷 South Korea (I am Korean)   
 - 🏃 Hobby/Activities: Marathon, Running, Swimming, Cycling, Hiking, Traveling...    
 - 🗣️ English:🇺🇸🇬🇧 Basic conversation, limited workplace proficiency  
 - 🗣️ Korean: 🇰🇷 Native  
