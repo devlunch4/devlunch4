@@ -18,7 +18,7 @@ Updated: 2025-09-03
 - 📋 [LinkedIn (Click)](https://www.linkedin.com/in/mikeca878/)  
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)  
 - 🛠️ Projects & Web Utilities [devlunch4.github.io](https://devlunch4.github.io/)  
-- 🌍 Location: 🇰🇷 South Korea (I am Korean)   
+- 🌍 Location: 🇰🇷 South Korea (Native Korean)   
 - 🗣️ English:🇺🇸🇬🇧 Basic conversation, limited workplace proficiency  
 - 🗣️ Korean: 🇰🇷 Native  
 
@@ -37,7 +37,7 @@ Updated: 2025-09-03
 >### Owner  
 **미카(MICA)**  
 *Nov 2023 - Dec 2024*  
-- Managed **Naver Smart Store** operations, sales, and customer relations.  
+- Communicated effectively with clients to ensure requirements were met.  
 - Promoted and sold partner products using blogs, SNS, and influencer outreach.  
 - Increased revenue through sales and strategic partnerships.  
 
@@ -51,7 +51,7 @@ Updated: 2025-09-03
 *Project: NEIS*  
 - Contributed to the development and enhancement of next-generation web applications.  
 - Developed UI/UX based on user requirements.  
-- Implemented features related to information disclosure.  
+- Implemented features for information disclosure management.  
 
 >### Developer & Software Engineer  
 **SYSTRAN KOREA / South Korea / Full-time**  
@@ -73,16 +73,17 @@ Updated: 2025-09-03
 
 ---
 
-## Projects & Self-Learning
-- Front & Back End  
+## Projects
+- **Full-Stack Applications**  
    - [PERN Ai Service Client & Server](https://quickai-pern-v2.vercel.app/)  
    - [MERN Hotel Reserve Client & Server](https://quickstay-cli-srv-frontend.vercel.app/)  
    - [Trip Front View](https://trippy-react-app.web.app/about)  
-   - [Weather Web App](https://weather-react-app-d391c.web.app/)  
-- [readBook](https://github.com/devlunch4/readBook)  
-- [Practiced Spring Guides](https://github.com/devlunch4/startSpringGuides)  
-- [LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)  
-- Challenge on Frontend Mentor  
+   - [Weather Web App](https://weather-react-app-d391c.web.app/)
+-  **Learning & Practice**  
+   - [readBook](https://github.com/devlunch4/readBook)  
+   - [Practiced Spring Guides](https://github.com/devlunch4/startSpringGuides)  
+   - [LeetCodeSolutionJava](https://github.com/devlunch4/LeetCodeSolutionJava)  
+- **Frontend Mentor Challenges**  
    - [Completed Challenges](https://github.com/devlunch4/challenges_frontendmentor.io)  
    - [Order Summary Component](https://github.com/devlunch4/order-summary-component_frontend_mentor)  
    - [Results Summary Component](https://github.com/devlunch4/results-summary-component_frontend_mentor)  
@@ -96,14 +97,18 @@ Updated: 2025-09-03
 ---
 
 ## Education
-* **Certificate in Full-Stack Development**
-  Ministry of Employment and Labor, South Korea | 2020–2021
-* **Certificate in Hospitality Skills Co-op**
-  Greystone College, Toronto | 2023
-* **B.Sc. in Polymer Engineering and Science**
-  Chungnam National University, South Korea | 2013–2015
-* **Associate Degree in Fire Safety Engineering**
-  Woosong College, South Korea | 2007–2011
+* **Certificate in Full-Stack Development**  
+  Ministry of Employment and Labor, South Korea | 2020–2021  
+  
+* **Certificate in Hospitality Skills Co-op**  
+  Greystone College, Toronto | 2023  
+  
+* **B.Sc. in Polymer Engineering and Science**  
+  Chungnam National University, South Korea | 2013–2015  
+  
+* **Associate Degree in Fire Safety Engineering**  
+  Woosong College, South Korea | 2007–2011  
+  
 
 ---
 
