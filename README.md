@@ -1,5 +1,7 @@
 Updated: 2025-09-03
 
+> 🌐 [국문 버전 보기](./README-KO.md)
+
 # 📑 Table of Contents
 
 - [👋 Introduction](#hi-i-am-michael)
