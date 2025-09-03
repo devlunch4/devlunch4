@@ -25,9 +25,9 @@ Updated: 2025-09-03
 ---
 
 ## Tech Stack & Tools
-- **Languages & Frameworks**: Java, Python, SQL, HTML, CSS, JavaScript, Spring, React, Oracle, Linux, Docker, Firebase..  
+- **Languages & Frameworks**: Java, Python, SQL, HTML, CSS, JavaScript, Spring, React, Oracle, Linux, Docker, Firebase  
 - **Tools**:
-   - Communication & AI: ChatGPT, MS Copilot, X-Grok, Clude, Teams, Slack  
+   - Communication & AI: ChatGPT, MS Copilot, X-Grok, Claude, Teams, Slack  
    - IDEs: VS Code, Eclipse, PyCharm, IntelliJ, WebStorm  
    - Version Control: Git, GitHub  
 
@@ -37,19 +37,19 @@ Updated: 2025-09-03
 >### Owner  
 **미카(MICA)**  
 *Nov 2023 - Dec 2024*  
-- Managed "Naver Smart Store" operations, sales, and customer relations.  
+- Managed **Naver Smart Store** operations, sales, and customer relations.  
 - Promoted and sold partner products using blogs, SNS, and influencer outreach.  
 - Increased revenue through sales and strategic partnerships.  
 
 >### Senior Java Developer  
 **U&Fine CO., LTD / South Korea / Full-time**  
 *Jul 2022 - Jan 2023* 
-- Developed next-generation programs using Java, SQL, Spring, and JavaScript.  
+- Developed next-generation applications using Java, SQL, Spring, and JavaScript.  
 - Communicated effectively with customers to ensure requirements were met.  
 - Contributed to the **NEIS (National Education Information System)** project.  
 
 *Project: NEIS*  
-- Participated in the development and improvement of next-generation web applications.  
+- Contributed to the development and enhancement of next-generation web applications.  
 - Developed UI/UX based on user requirements.  
 - Implemented features related to information disclosure.  
 
@@ -67,7 +67,7 @@ Updated: 2025-09-03
 >### Assistant Manager  
 **Dong-A ST Co., Ltd / South Korea / Full-time**   
 *Aug 2017 - Aug 2019*  
-- Ensured compliance with Pharma standards (FDA, GMP).  
+- Ensured compliance with pharmaceutical standards (FDA, GMP).  
 - Developed and validated analytical methods.  
 - Participated in internal & external audits, assisting with documentation and technical support.  
 
@@ -96,20 +96,20 @@ Updated: 2025-09-03
 ---
 
 ## Education
-- Certificate in Hospitality Skills Co-op  
-  Greystone College / Toronto / 2023-2023  
-- Certificate in Full-Stack Developer Course  
-  The Ministry of Employment and Labor / South Korea / 2020-2021  
-- **Bachelor's Degree, Polymer Engineering & Science**  
-  Chungnam National University / South Korea / 2013-2015  
-- Associate's Degree, Fire Safety Engineering  
-  Woosong College / South Korea / 2007-2011  
+* **Certificate in Full-Stack Development**
+  Ministry of Employment and Labor, South Korea | 2020–2021
+* **Certificate in Hospitality Skills Co-op**
+  Greystone College, Toronto | 2023
+* **B.Sc. in Polymer Engineering and Science**
+  Chungnam National University, South Korea | 2013–2015
+* **Associate Degree in Fire Safety Engineering**
+  Woosong College, South Korea | 2007–2011
 
 ---
 
 ## Licenses & Certifications
-- Certificate Full-Stack Developer Training Program (South Korea)  
-   - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring  
+- Certificate in Full-Stack Developer Training Program (South Korea)  
+   - Java, Python, SQL, HTML, CSS, JavaScript, JSON, Spring...  
    - Completed multiple practical projects  
    - <a href="https://github.com/devlunch4/3TeamFinalProject#readme" target="_blank">Final Project - Smart Farm</a>  
 - Kaggle Learn Certificates  
@@ -134,4 +134,4 @@ Updated: 2025-09-03
 ---
 
 ## Hobbies & Activities
-- Marathon, Running, Swimming, Cycling, Hiking, Traveling  
+- Marathon running, swimming, cycling, hiking, and traveling  
