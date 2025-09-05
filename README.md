@@ -95,12 +95,16 @@ _Project: KB Bank (Kookmin Bank)_
 - **Full-Stack Applications**  
   - [PERN AI Service (Client & Server)](https://quickai-pern-v2.vercel.app/)
      - : React.js, Vite,  Node.js, Express.js, OpenAI, Gemini, Cloudinary, Multer, Tailwind CSS, ClipDrop
+     - : Provides AI-powered tools for image generation/editing, text content creation, and resume review, with dashboard and community features.  
   - [MERN Hotel Reservation System (Client & Server)](https://quickstay-cli-srv-frontend.vercel.app/)
-     - : React.js, Vite, Node.js, Express.js, MongoDB, Clerk, Tailwind CSS, Cloudinary  
+     - : React.js, Vite, Node.js, Express.js, MongoDB, Clerk, Tailwind CSS, Cloudinary
+     - : Enables travelers to search, book, and manage hotel reservations, while hotel owners manage rooms, bookings, and revenue via an admin dashboard.  
   - [Trip Planner (Frontend)](https://trippy-react-app.web.app/about)  
-     - : React.js, Vite, Firebase, Tailwind CSS  
+     - : React.js, Vite, Firebase, Tailwind CSS
+     - : Offers destination information, travel package browsing, trip planning, and inquiry/response services.  
   - [Weather Web App](https://weather-react-app-d391c.web.app/)  
-     - : React.js, Vite,, Firebase, Axios, i18next, Toastify, OpenWeather API  
+     - : React.js, Vite,, Firebase, Axios, i18next, Toastify, OpenWeather API
+     - : Provides real-time weather data with city search, favorites, recent history, multi-language support, and visitor count tracking.  
 
 - **Learning & Practice**  
   - [readBook](https://github.com/devlunch4/readBook) : JavaScript, HTML, CSS
