@@ -95,7 +95,7 @@ _Project: KB Bank (Kookmin Bank)_
 - **Full-Stack Applications**  
   - [PERN AI Service (Client & Server)](https://quickai-pern-v2.vercel.app/)
      - : React.js, Vite,  Node.js, Express.js, OpenAI, Gemini, Cloudinary, Multer, Tailwind CSS, ClipDrop
-     - : Provides AI-powered tools for image generation/editing, text content creation, and resume review, with dashboard and community features.  
+     - : Provides AI-powered tools for image generation/editing, text content creation, and resume review, with dashboard and community features, offering both free and premium services.  
   - [MERN Hotel Reservation System (Client & Server)](https://quickstay-cli-srv-frontend.vercel.app/)
      - : React.js, Vite, Node.js, Express.js, MongoDB, Clerk, Tailwind CSS, Cloudinary
      - : Enables travelers to search, book, and manage hotel reservations, while hotel owners manage rooms, bookings, and revenue via an admin dashboard.  
