@@ -85,7 +85,7 @@ Updated: 2025-09-03 ver KOREAN
 
 ---
 
-## 🚀 프로젝트
+## 프로젝트
 
 - **Full-Stack 애플리케이션**  
   - [PERN AI 서비스 (클라이언트 & 서버)](https://quickai-pern-v2.vercel.app/)  
