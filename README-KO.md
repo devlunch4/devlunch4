@@ -90,7 +90,7 @@ Updated: 2025-09-03 ver KOREAN
 - **Full-Stack 애플리케이션**  
   - [PERN AI 서비스 (클라이언트 & 서버)](https://quickai-pern-v2.vercel.app/)  
      - : React.js, Vite, Node.js, Express.js, OpenAI, Gemini, Cloudinary, Multer, Tailwind CSS, ClipDrop  
-     - : 이미지 생성/편집, 텍스트 콘텐츠 작성, 이력서 리뷰, 대시보드 및 커뮤니티 기능 제공  
+     - : 이미지 생성/편집, 텍스트 콘텐츠 작성, 이력서 리뷰, 대시보드 및 커뮤니티 기능, 무료/유료 서비스 제공  
   - [MERN 호텔 예약 시스템 (클라이언트 & 서버)](https://quickstay-cli-srv-frontend.vercel.app/)  
      - : React.js, Vite, Node.js, Express.js, MongoDB, Clerk, Tailwind CSS, Cloudinary  
      - : 여행자는 호텔 검색/예약/관리, 호텔 운영자는 객실·예약·수익 관리 가능  
