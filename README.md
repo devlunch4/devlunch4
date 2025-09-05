@@ -90,7 +90,7 @@ _Project: KB Bank (Kookmin Bank)_
 ---
 
 <!-- 프로젝트에 사용 된 기술 간단 요약 -->
-## 🚀 Projects
+## Projects
 
 - **Full-Stack Applications**  
   - [PERN AI Service (Client & Server)](https://quickai-pern-v2.vercel.app/)
