@@ -1,5 +1,7 @@
 Updated: 2025-09-03 ver KOREAN
 
+🌐 [ENGLISH Ver](./README-EN.md)
+
 # 📑 목차
 
 - [👋 소개](#안녕하세요-저는-김우성입니다)
