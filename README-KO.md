@@ -23,8 +23,8 @@ Updated: 2025-09-03 ver KOREAN
 - 🧑🏻‍💻 [github.com/devlunch4](https://github.com/devlunch4)
 - 🛠️ 프로젝트 & 웹 유틸리티: [devlunch4.github.io](https://devlunch4.github.io/)
 - 🌍 위치: 🇰🇷 대한민국 (한국어 모국어)
-- 🗣️ 영어: 🇺🇸🇬🇧 기본 회화 가능, 제한적 업무 활용 가능
 - 🗣️ 한국어: 🇰🇷 원어민
+- 🗣️ 영어: 🇺🇸🇬🇧 기본 회화 가능, 제한적 업무 활용 가능
 
 ---
 
