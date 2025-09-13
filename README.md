@@ -1,6 +1,6 @@
-Updated: 2025-09-03 ver KOREAN
+Updated: 2025-09-03 KOREAN Version
 
-🌐 [ENGLISH Ver](./README-EN.md)
+🌐 [ENGLISH Version](./README-EN.md)
 
 # 📑 목차
 
