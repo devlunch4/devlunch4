@@ -90,7 +90,7 @@ Updated: 2025-09-26 KOREAN Version
 ## 개인 프로젝트-포트폴리오
 
 - **Full-Stack 애플리케이션**
-  - [MERN AI 서비스 (클라이언트 & 서버] (https://quickblog-mern.vercel.app/)
+  - [MERN AI 서비스 (클라이언트 & 서버](https://quickblog-mern.vercel.app/)
      - : React.js, Vite, Node.js, Express.js, MongoDB, Google Generative AI, ImageKit, Multer, JWT, Tailwind CSS, Quill  
      - : AI 기반 블로그 콘텐츠 생성, 댓글 관리, 관리자 대시보드, 블로그 추가/편집/삭제, 반응형 UI  
   - [PERN AI 서비스 (클라이언트 & 서버)](https://quickai-pern-v2.vercel.app/)  
