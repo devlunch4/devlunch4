@@ -92,7 +92,8 @@ Updated: 2025-09-26 KOREAN Version
 - **Full-Stack 애플리케이션**
   - [MERN AI 블로그 서비스 (클라이언트 & 서버)](https://quickblog-mern.vercel.app/)
      - : React.js, Vite, Node.js, Express.js, MongoDB, Google Generative AI, ImageKit, Multer, JWT, Tailwind CSS, Quill  
-     - : AI 기반 블로그 콘텐츠 생성, 댓글 관리, 관리자 대시보드, 블로그 추가/편집/삭제, 반응형 UI  
+     - : AI 기반 블로그 콘텐츠 생성, 댓글 관리, 관리자 대시보드, 블로그 추가/편집/삭제, 반응형 UI
+     - : [MERN AI BLOG 시연/데모 영상 유튜브 보기 - 클릭](https://youtu.be/1S0cPY3yOoM?si=9XcI_q525p7FxIyW)
   - [PERN AI 이미지 서비스 (클라이언트 & 서버)](https://quickai-pern-v2.vercel.app/)  
      - : React.js, Vite, Node.js, Express.js, OpenAI, Gemini, Cloudinary, Multer, Tailwind CSS, ClipDrop  
      - : AI 이미지 생성/편집, 텍스트 콘텐츠 작성, 이력서 리뷰, 대시보드 및 커뮤니티 기능, 무료/유료 서비스 제공  
