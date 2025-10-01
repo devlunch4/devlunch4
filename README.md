@@ -105,7 +105,12 @@ Updated: 2025-09-26 KOREAN Version
      - : 여행지 정보 제공, 여행 패키지 탐색, 여행 계획 및 문의/응답 기능  
   - [날씨 웹 앱](https://weather-react-app-d391c.web.app/)  
      - : React.js, Vite, Firebase, Axios, i18next, Toastify, OpenWeather API  
-     - : 실시간 날씨 데이터, 도시 검색, 즐겨찾기, 다국어 지원, 방문자 수 추적  
+     - : 실시간 날씨 데이터, 도시 검색, 즐겨찾기, 다국어 지원, 방문자 수 추적
+   
+- **클론 프로젝트**  
+  - [nwitter: X/Twitter 클론](https://nwitter-v2.web.app/)  
+     - : React 19, Vite 6, TypeScript, Firebase 11, Styled-Components 6   
+     - : 실시간 트윗 작성/수정/삭제, 이미지 업로드 자동 압축(Base64), 사용자 인증 및 권한 관리, Firestore 실시간 동기화, 반응형 레이아웃과 편집/삭제 UI  
 
 - **학습 & 연습**  
   - [readBook](https://github.com/devlunch4/readBook) : JavaScript, HTML, CSS  
@@ -121,8 +126,6 @@ Updated: 2025-09-26 KOREAN Version
   - [스네이크 게임 (온라인)](https://devlunch4.github.io/snake-game-js/) : JavaScript, HTML, CSS  
   - [스네이크 게임 (소스 코드)](https://github.com/devlunch4/snake-game-js) : JavaScript  
 
-- **클론 프로젝트**  
-  - [트위터(X.com) 클론](https://nwitter-v2.web.app/) : React, Firebase, JavaScript  
 
 ---
 
