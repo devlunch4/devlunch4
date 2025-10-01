@@ -93,7 +93,11 @@ _Project: KB Bank (Kookmin Bank)_
 ## Projects
 
 - **Full-Stack Applications**  
-  - [PERN AI Service (Client & Server)](https://quickai-pern-v2.vercel.app/)
+  - [MERN AI Blog Service (Client & Server)](https://quickblog-mern.vercel.app/)  
+     - Tech: React.js, Vite, Node.js, Express.js, MongoDB, Google Generative AI, ImageKit, Multer, JWT, Tailwind CSS, Quill  
+     - Features: AI-powered blog content generation, comments management, admin dashboard, create/edit/delete blog posts, responsive UI  
+     - Demo Video: [YouTube](https://youtu.be/1S0cPY3yOoM?si=9XcI_q525p7FxIyW)  
+  - [PERN AI Service (Client & Server)](https://quickai-pern-v2.vercel.app/)  
      - : React.js, Vite,  Node.js, Express.js, OpenAI, Gemini, Cloudinary, Multer, Tailwind CSS, ClipDrop
      - : Provides AI-powered tools for image generation/editing, text content creation, and resume review, with dashboard and community features, offering both free and premium services.  
   - [MERN Hotel Reservation System (Client & Server)](https://quickstay-cli-srv-frontend.vercel.app/)
@@ -104,7 +108,12 @@ _Project: KB Bank (Kookmin Bank)_
      - : Offers destination information, travel package browsing, trip planning, and inquiry/response services.  
   - [Weather Web App](https://weather-react-app-d391c.web.app/)  
      - : React.js, Vite,, Firebase, Axios, i18next, Toastify, OpenWeather API
-     - : Provides real-time weather data with city search, favorites, recent history, multi-language support, and visitor count tracking.  
+     - : Provides real-time weather data with city search, favorites, recent history, multi-language support, and visitor count tracking.
+   
+- **Clone Projects**  
+  - [Twitter (X.com) Clone](https://nwitter-v2.web.app/)  
+    - Tech: React, Firebase, JavaScript  
+    - Features: Real-time tweet creation/edit/delete, image upload with auto compression, user authentication and authorization, Firestore synchronization, responsive layout  
 
 - **Learning & Practice**  
   - [readBook](https://github.com/devlunch4/readBook) : JavaScript, HTML, CSS
@@ -120,8 +129,7 @@ _Project: KB Bank (Kookmin Bank)_
   - [Snake Game (Play Online)](https://devlunch4.github.io/snake-game-js/) : JavaScript, HTML, CSS
   - [Snake Game (Source Code)](https://github.com/devlunch4/snake-game-js) : JavaScript
 
-- **Clone Projects**  
-  - [Twitter (X.com) Clone](https://nwitter-v2.web.app/) : React, Firebase, JavaScript
+
 
 ---
 
