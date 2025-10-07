@@ -114,6 +114,8 @@ Updated: 2025-10-08
 
 ## English
 
+# A developer passionate about exploring new technologies and opportunities<br>with integrity and expertise
+
 # Table of Contents
 
 - Introduction
