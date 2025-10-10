@@ -54,8 +54,8 @@ Updated: 2025-10-08
 
 - 언어 및 프레임워크: Java, Python, SQL, HTML, CSS, JavaScript, Spring, React, Next.js, Node.js, MERN/PERN stack  
 - 데이터베이스 및 스토리지: Oracle, PostgreSQL, MongoDB, Firebase  
-- DevOps 및 클라우드: Linux, Docker, GitHub Actions, CI/CD, Firebase Hosting, AWS 기본 활용  
-- API & 통합: RESTful API, 외부 API 연동, AI/ML 모델 통합  
+- DevOps 및 클라우드: Linux, Docker, GitHub Actions, CI/CD, Firebase Hosting, Vercel, AWS 기본 활용  
+- API & 통합: RESTful API, 외부 API 연동  
 - 도구: IDE(VS Code, IntelliJ, PyCharm 등), Git/GitHub, ChatGPT, Teams, Slack, Notion, Postman
 
 ---
@@ -163,8 +163,8 @@ Updated: 2025-10-08
 
 - Languages & Frameworks: Java, Python, SQL, HTML, CSS, JavaScript, Spring, React, Next.js, Node.js, MERN/PERN stack  
 - Databases & Storage: Oracle, PostgreSQL, MongoDB, Firebase  
-- DevOps & Cloud: Linux, Docker, GitHub Actions, CI/CD, Firebase Hosting, AWS basic  
-- APIs & Integration: RESTful API, external API integration, AI/ML model integration  
+- DevOps & Cloud: Linux, Docker, GitHub Actions, CI/CD, Firebase Hosting, Vercel, AWS basic  
+- APIs & Integration: RESTful API, external API integration  
 - Tools & Productivity: IDE (VS Code, IntelliJ, PyCharm etc.), Git/GitHub, ChatGPT, Teams, Slack, Notion, Postman
 
 ---
